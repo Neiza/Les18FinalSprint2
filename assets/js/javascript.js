@@ -1,4 +1,4 @@
-window.addEventListener('load', function(){
+window.addEventListener('click', function(){
       function myFunction() {
       	 document.getElementById("myDropdown").classList.toggle("show");
       }

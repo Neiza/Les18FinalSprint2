@@ -1,3 +1,4 @@
+html{
 .dropbtn {
   background-color: white;
   color: black;
@@ -6,11 +7,12 @@
   border: 1px solid black;
   cursor: pointer;
 }
-
+}
+body{
 .dropbtn:hover, .dropbtn:focus {
   background-color: #eee;
 }
-
+}
 .dropdown {
   position: relative;
   display: inline-block;
@@ -25,6 +27,8 @@
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
 }
+
+
 
 .dropdown-content a {
   color: black;
