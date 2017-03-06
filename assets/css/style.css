@@ -1,4 +1,4 @@
-html{
+
 .dropbtn {
   background-color: white;
   color: black;
@@ -7,12 +7,12 @@ html{
   border: 1px solid black;
   cursor: pointer;
 }
-}
-body{
+
+
 .dropbtn:hover, .dropbtn:focus {
   background-color: #eee;
 }
-}
+
 .dropdown {
   position: relative;
   display: inline-block;
